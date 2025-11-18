@@ -77,7 +77,7 @@ These two values are required the first time you run `mewchat`.
 
 ---
 
-## 🚀 **Usage**
+## **Usage**
 
 After installation,close installer, open new windows terminal & run : **mewchat**
 
