@@ -6,7 +6,7 @@
 
 ---
 
-## 📝 **About**
+## **About**
 
 Have you ever needed to talk to someone privately, but the environment around you made it impossible?  
 Maybe coworkers are nearby, or someone is trying to overhear your conversations.
@@ -19,15 +19,15 @@ Although targeted for **Windows users**, it works on **any OS** with Python inst
 
 You can run:
 
-- ✅ The Python script manually after required library installation  
-- ✅ Or install it globally using the provided batch installer (Windows) 
-- ✅ Or create your own symbolic-link based binary for quick launching
+- The Python script manually after required library installation  
+- Or install it globally using the provided batch installer (Windows) 
+- Or create your own symbolic-link based binary for quick launching
 
 ---
 
-## 📦 **Installation (Windows)**
+## **Installation (Windows)**
 
-### ✅ **Automated Installation batchscript (Recommended)**
+### **Automated Installation batchscript (Recommended)**
 
 Run the batchscript install.bat:
 
@@ -49,7 +49,7 @@ Run the batchscript install.bat:
 
 
 ## 🔑 **Using Telegram Open API**  
-### ✅ *How to Get Your Telegram API ID and API Hash*
+### *How to Get Your Telegram API ID and API Hash*
 
 1. Visit: **https://my.telegram.org**  
 2. Log in with your phone number.  
@@ -89,9 +89,9 @@ After installation,close installer, open new windows terminal & run : **mewchat*
 ---
 At first launch, the tool will ask for:
 
-- ✅ Your **Telegram API ID**  
-- ✅ Your **Telegram API Hash**
-- ✅ Your **Telegram Account Phone Number**
+- Your **Telegram API ID**  
+- Your **Telegram API Hash**
+- Your **Telegram Account Phone Number**
 Then verify with otp successfully logged in and Make connected with your tg account And api Creds 
 
 ---
@@ -99,7 +99,7 @@ Then verify with otp successfully logged in and Make connected with your tg acco
   <img src="./screenshots/img21.png" width="750" alt="Screenshot">
 </p>
 ---
-## 📱 Login & First-Time Setup
+## Login & First-Time Setup
 
 After entering your **API ID** and **API Hash**, the tool will guide you through Telegram login:
 
@@ -130,7 +130,7 @@ After entering your passphrase, you will enter the chat interface.
 
 ## 💬 How to Chat
 
-### ✅ **Sending Messages**
+### **Sending Messages**
 
 Type your message wrapped in **double quotes**:**"Hello howe are you"**
 
@@ -142,7 +142,7 @@ Type your message wrapped in **double quotes**:**"Hello howe are you"**
 ---
 Press **Enter** to send.
 
-- ✅ **Your messages appear in green** (encrypted view) 
+- **Your messages appear in green** (encrypted view) 
 
 ---
 <p align="center">
@@ -150,7 +150,7 @@ Press **Enter** to send.
 </p>
 
 ---
-- ✅ **Incoming messages appear in red** (encrypted view)
+- **Incoming messages appear in red** (encrypted view)
 ---
 <p align="center">
   <img src="./screenshots/img10.png" width="750" alt="Screenshot">
@@ -167,7 +167,7 @@ They can receive your messages through Telegram and reply to you normally. Basic
 </p>
 
 ---
-### ✅ **Decrypting Messages Temporarily**
+### **Decrypting Messages Temporarily**
 
 To decrypt and read the conversation clearly: **d**
 Press **Enter** → The chat view decrypts for **10 seconds**, allowing you to read it.
@@ -188,7 +188,14 @@ If someone suddenly comes near you: press **Enter** again
 - Press **Enter** (empty line) immediately to **instantly re-encrypt** everything.
 - **The system will also auto encrypt the view after 10 seconds on its own.**
 
-### ✅ **Why This Matters**
+### Extended decrypt
+
+To Decrypt last 10 messeges for 15 seconds: **dd**
+Press **Enter** → The chat view decrypts last 10 chats for **15 seconds**
+- Press **Enter** immediately to **instantly re-encrypt** everything before 15 seconds auto Encrypting.(same like **d**)
+
+---
+### **Why This Matters**
 
 The terminal interface intentionally mimics like *a serious automation tool created a IT professional for his work*    
 so anyone glancing at your screen thinks you're doing some deep serious activity.  
@@ -196,7 +203,7 @@ But in reality… you're just chatting with your person safely.
 
 ---
 
-## ✅ **This ensures:**
+## **This ensures:**
 - No one around you can read the conversation  
 - Contents stay encrypted unless temporarily decrypted(if someone suddenly captured photo encrypted view.they cant decrypt it without key) 
 - Messages self protect automatically  
@@ -204,7 +211,7 @@ But in reality… you're just chatting with your person safely.
 
 ---
 
-## 📂 Other Chat Commands & Features
+## Other Chat Commands & Features
 
 ### 🔄 Fetch Recent Messages
 
@@ -237,7 +244,7 @@ This clears the terminal view and reloads the latest sent/received messages for 
 
 ---
 
-## 🖼️ Media Viewer (Images, Videos, GIFs, Audio)
+## Media Viewer (Images, Videos, GIFs, Audio)
 
 If the person you are chatting with sends **any media** (image, video, gif, audio) through Telegram:
 
@@ -276,7 +283,7 @@ Press **Enter**, and your **default browser** will open automatically, displayin
 </p>
 
 ---
-### ⚠️ Media Storage Limit
+### Media Storage Limit
 
 For privacy and safety, the application keeps **only the last 10 media files**.
 
@@ -291,7 +298,7 @@ This cause old media cannot be accessed,but it built for maintaining secrecy dur
 
 ---
 
-## 🔁 Switch to Another Chat
+## Switch to Another Chat
 
 To change the person you are chatting with: type **q** and hit **Enter** to go back 
 
@@ -315,9 +322,9 @@ You can chat securely with **any of your Telegram contacts**.
 
 ---
 
-## 🕵️ Tamper Mode (Fun Security Trick)
+## Tamper Mode (Fun Security Trick)
 
-### 🌀 Tamper the Chat View
+### Tamper the Chat View
 
 If someone nearby acts too curious and demands,  
 **“Press d and show me what you're reading!”**  
@@ -331,7 +338,7 @@ Type: **t** and hit **Enter**
 </p>
 
 ---
-### 🔍 What It Does
+### What It Does
 
 - It **scrambles (swaps bytes)** of all encrypted blobs displayed in your terminal.
 - After tampering:
@@ -351,7 +358,7 @@ This creates the perfect illusion that:
 - The decryption is broken  
 - Nothing meaningful was ever there  
 
-### 🎭 Why This Exists
+### 🎭 Why This
 
 It's a fun, harmless feature meant to:
 
@@ -361,13 +368,13 @@ It's a fun, harmless feature meant to:
 - Make kids who think they “caught you” suddenly confused
 
 Just a playful trick built into the system —  
-**ahhhaaa… 😄**
+**ahhhaaa…**
 
 (Once you reload or fetch fresh chat, the view returns to normal.)
 
 ---
 
-## ❌ Exit the Application
+## Exit the Application
 
 At any time, press: **Ctrl + c**
 
