@@ -98,7 +98,9 @@ Then verify with otp successfully logged in and Make connected with your tg acco
 <p align="center">
   <img src="./screenshots/img21.png" width="750" alt="Screenshot">
 </p>
+
 ---
+
 ## Login & First-Time Setup
 
 After entering your **API ID** and **API Hash**, the tool will guide you through Telegram login:
