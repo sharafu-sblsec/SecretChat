@@ -366,7 +366,7 @@ It's a fun, harmless feature meant to:
 
 - Mislead overly curious friends  
 - Confuse nosy coworkers  
-- Shut down “Sherlock Holmes” types  
+- Shut down “Sherlock Holmes” types Around you 
 - Make kids who think they “caught you” suddenly confused
 
 Just a playful trick built into the system —  
