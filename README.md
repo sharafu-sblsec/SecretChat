@@ -6,6 +6,10 @@
 
 ---
 
+## **important**
+
+<h2 align="center">Use your own device to log in and configure Telegram. Avoid using shared company laptops, maybe your credentials could be exposed and reused. This script does not include advanced local credential management. After use, delete the generated configuration and session files from the script's directory if they are no longer needed</h2>
+
 ## **About**
 
 Have you ever needed to talk to someone privately, but the environment around you made it impossible?  
